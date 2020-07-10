@@ -32,8 +32,8 @@ function setup() {
     element: document.body,
     engine: engine,
     options: {
-      width: 800,
-      height: 800,
+      width: 600,
+      height: 600,
       wireframes: false,
       background: "#0f0f13",
     },
