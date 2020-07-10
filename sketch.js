@@ -33,7 +33,7 @@ function setup() {
     engine: engine,
     options: {
       width: 800,
-      height: 600,
+      height: 800,
       wireframes: false,
       background: "#0f0f13",
     },
