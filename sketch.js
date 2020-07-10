@@ -32,7 +32,7 @@ function setup() {
     element: document.body,
     engine: engine,
     options: {
-      width: 600,
+      width: 1000,
       height: 600,
       wireframes: false,
       background: "#0f0f13",
